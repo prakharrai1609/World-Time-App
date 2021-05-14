@@ -7,3 +7,10 @@
   <li>It uses world time api : http://worldtimeapi.org/</li>
   <li>It uses flutter and dart</li>
 </ul>
+
+
+![1](https://user-images.githubusercontent.com/58136319/118255969-899b9380-b4ca-11eb-9cd4-ef3255f0fb10.jpg)
+
+![2](https://user-images.githubusercontent.com/58136319/118256043-a33cdb00-b4ca-11eb-8015-ccf51c16112f.jpg)
+
+![3](https://user-images.githubusercontent.com/58136319/118256085-b5b71480-b4ca-11eb-849f-1b8a8f461f43.jpg)
