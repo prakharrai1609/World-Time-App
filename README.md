@@ -1,16 +1,9 @@
-# world_time_app
-
-World time project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# World Time App 🌍
+<br>
+<h3 align="center">This is a learning resource</h3>
+<h4>During this project I learned how to develope flutter apps and basics of dart . <br>I learned how to make api calls and receiving third party data . <br>I also learned a lot about managing a codebase and how to develop a project from start to end .</h4>
+<br>
+<ul>
+  <li>It uses world time api : http://worldtimeapi.org/</li>
+  <li>It uses flutter and dart</li>
+</ul>
